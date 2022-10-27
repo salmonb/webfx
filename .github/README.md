@@ -9,17 +9,17 @@ For more explanation, please visit the [website][webfx-website].
 <div align="center">
 <table>
 <tr>
-<td align="center"><a href="https://tallycounter.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>Tally Counter</a>
+<td align="center"><a href="https://tallycounter.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>Tally Counter</a><br/><img src="google-play.png"><img src="app-store.png">
 </td>
-<td align="center"><a href="https://moderngauge.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>Modern Gauge</a></td>
-<td align="center"><a href="https://enzoclocks.webfx.dev"> <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/> Enzo Clocks</a></td>
-<td align="center"><a href="https://spacefx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>SpaceFX</a> ♪</td>
+<td align="center"><a href="https://moderngauge.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>Modern Gauge</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center"><a href="https://enzoclocks.webfx.dev"> <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/> Enzo Clocks</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center"><a href="https://spacefx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>SpaceFX</a> ♪<br/><img src="google-play.png"><img src="app-store.png"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪</td>
-<td align="center"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a></td>
-<td align="center"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.GIF"/><br/>Mandelbrot</a></td>
-<td align="center"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a></td>
+<td align="center"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪<br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.GIF"/><br/>Mandelbrot</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a><br/><img src="google-play.png"><img src="app-store.png"></td>
 </tr>
 <tr>
 <td colspan="4" align="center">
@@ -27,63 +27,6 @@ For more explanation, please visit the [website][webfx-website].
 <img width="100%" src='https://webfx-demos.github.io/webfx-demos-videos/MoreDemos.svg'/>
 </a>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>Tablets & mobiles</td>
-<td align="center"><img height="50" src="android.png"/></td>
-<td align="center"><img height="50" src="android.png"/></td>
-<td align="center"><img height="50" src="ios.png"/></td>
-</tr>
-<tr>
-<td>Tally Counter</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>Modern Gauge</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>Enzo Clocks</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>SpaceFX</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>DemoFX</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>Ray Tracer</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>Mandelbrot</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
-</tr>
-<tr>
-<td>FX2048</td>
-<td align="center"><a>Ad hoc</a></td>
-<td align="center"><a><img src="google-play.png"></a></td>
-<td align="center"><a><img src="app-store.png"/></a></td>
 </tr>
 </table>
 </div>
