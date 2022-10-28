@@ -55,9 +55,6 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 </div>
 
-You can check out the demos to see how a GitHub workflow can generate these executables.
-For example, here is the [GitHub workflow](https://github.com/webfx-demos/webfx-demo-fx2048/blob/main/.github/workflows/builds.yml) for the FX2048 demo and the [executables](https://github.com/webfx-demos/webfx-demo-fx2048/releases) that it generated.
-
 ## How it works
 
 JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobiles & Embed. WebFX is here to add the Web platform to this collection. 
