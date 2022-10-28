@@ -97,11 +97,7 @@ Watch our video tutorials, or read our [guide to getting started][webfx-guide].
 
 ## Status
 
-Although the project successfully passed the Proof of Concept and the prototype phases, it's still in the incubation phase. We are working to make it a Minimal Viable Product.
-
-WebFX is not yet ready for production.
-At this stage, we provide only snapshot releases, and breaking changes may occur until the first official release.
-But you are very welcome to try WebFX and play with it.
+WebFX is still in the incubation phase. At this stage, we provide only snapshot releases, and breaking changes may occur until the first official release.
 
 ## Ecosystem
 
