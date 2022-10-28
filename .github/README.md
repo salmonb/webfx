@@ -84,18 +84,11 @@ For more explanation, please read the [documentation][webfx-docs].
 
 <table>
 <tr>
-<td align="center"><img src="tutorial.png"/></td>
-<td align="center"><img src="tutorial.png"/></td>
-<td align="center"><img src="tutorial.png"/></td>
-<td align="center"><img src="tutorial.png"/></td>
-<td align="center"><img src="tutorial.png"/></td>
-</tr>
-<tr>
-<td align="center">Getting started</td>
-<td align="center">Local builds</td>
-<td align="center">GitHub builds</td>
-<td align="center">Google Play</td>
-<td align="center">App Store</td>
+<td align="center"><img src="tutorial1.png"/></td>
+<td align="center"><img src="tutorial2.png"/></td>
+<td align="center"><img src="tutorial3.png"/></td>
+<td align="center"><img src="tutorial4.png"/></td>
+<td align="center"><img src="tutorial5.png"/></td>
 </tr>
 <tr>
 <td colspan="100" align="center">
