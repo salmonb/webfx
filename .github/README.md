@@ -101,7 +101,7 @@ WebFX is still in the incubation phase. At this stage, we provide only snapshot 
 
 ## Ecosystem
 
-Although the WebFX Kit is the heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
+Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
 
 <div align="center">
     <picture>
