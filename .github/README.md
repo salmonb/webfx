@@ -51,6 +51,8 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Fully cross-platform
 
+WebFX applications can be compiled for 7 different platforms.
+
 <div align="center">
 
 <table>
@@ -85,7 +87,7 @@ JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobil
     </picture>
 </p>
 
-WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App.
+WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App. For more explanation, please read the [documentation][webfx-docs].
 
 <div align="center">
     <picture>
@@ -93,8 +95,6 @@ WebFX achieves this by providing the WebFX Kit - a GWT compatible version of Ope
       <img src="https://docs.webfx.dev/webfx-how-it-works.svg">
     </picture>
 </div>
-
-For more explanation, please read the [documentation][webfx-docs].
 
 ## Getting started
 
@@ -116,8 +116,6 @@ Watch our video tutorials, or read our [guide to getting started][webfx-guide].
 
 ## Ecosystem
 
-Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
-
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-project-dark.svg">
@@ -125,7 +123,7 @@ Although the WebFX Kit is the very heart of the project, there are other importa
     </picture>
 </div>
 
-More info is given at the [organization level](https://github.com/webfx-project).
+Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem. More info is given at the [organization level](https://github.com/webfx-project).
 
 ## Status
 
