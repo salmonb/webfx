@@ -101,7 +101,16 @@ WebFX is still in the incubation phase. At this stage, we provide only snapshot 
 
 ## Ecosystem
 
-In addition to the WebFX Kit, a whole ecosystem is being built for the development of complex WebFX applications, such as Enterprise level applications. This ecosystem is presented at the [WebFX Project](https://github.com/webfx-project) level.
+Although the WebFX Kit is the heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-project-dark.svg">
+      <img src="https://docs.webfx.dev/webfx-readmes/webfx-project-light.svg" />
+    </picture>
+</div>
+
+More info is given at the [organization level](https://github.com/webfx-project).
 
 ## Roadmap
 
