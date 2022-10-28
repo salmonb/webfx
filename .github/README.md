@@ -82,7 +82,28 @@ For more explanation, please read the [documentation][webfx-docs].
 
 ## Getting started
 
-The [guide to getting started][webfx-guide] is included in the documentation.
+<table>
+<tr>
+<td align="center"><img src="tutorial.png"/></td>
+<td align="center"><img src="tutorial.png"/></td>
+<td align="center"><img src="tutorial.png"/></td>
+<td align="center"><img src="tutorial.png"/></td>
+<td align="center"><img src="tutorial.png"/></td>
+</tr>
+<tr>
+<td align="center">Getting started</td>
+<td align="center">Local builds</td>
+<td align="center">GitHub builds</td>
+<td align="center">Google Play</td>
+<td align="center">App Store</td>
+</tr>
+<tr>
+<td colspan="100" align="center">
+<img width="100%" src='MoreVideoTutorials.svg'/>
+</td>
+</table>
+
+Watch our video tutorials, or read our [guide to getting started][webfx-guide].
 
 ## Status
 
