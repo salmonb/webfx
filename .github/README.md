@@ -27,12 +27,10 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 </td>
 </tr>
 </table>
+
 </div>
 
 ## Fully cross-platform
-
-WebFX applications can be compiled to 7 platforms from a single code base:
-
 
 <div align="center">
 
@@ -62,7 +60,16 @@ For example, here is the [GitHub workflow](https://github.com/webfx-demos/webfx-
 
 ## How it works
 
-WebFX compiles your JavaFX application together with the WebFX Kit - a GWT compatible version of OpenJFX.
+JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobiles & Embed. WebFX is here to add the Web Platform to this collection. 
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-cross-platform-dark.svg">
+        <img src="https://docs.webfx.dev/webfx-cross-platform.svg" />
+    </picture>
+</p>
+
+WebFX provides the WebFX Kit - a GWT compatible version of OpenJFX, making your application compilable to a Web app.
 
 <div align="center">
     <picture>
