@@ -60,7 +60,7 @@ For example, here is the [GitHub workflow](https://github.com/webfx-demos/webfx-
 
 ## How it works
 
-JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobiles & Embed. WebFX is here to add the Web Platform to this collection. 
+JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobiles & Embed. WebFX is here to add the Web platform to this collection. 
 
 <p align="center">
     <picture>
@@ -69,7 +69,7 @@ JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobil
     </picture>
 </p>
 
-WebFX provides the WebFX Kit - a GWT compatible version of OpenJFX, making your application compilable to a Web app.
+WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App.
 
 <div align="center">
     <picture>
