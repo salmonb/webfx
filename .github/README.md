@@ -2,7 +2,7 @@
 
 WebFX lets you write applications for all major platforms (Web, Mobiles & Desktops) from a single Java code base.
 
-## Demos
+## Graphical demos
 
 <div align="center">
 <table>
@@ -29,6 +29,25 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 </table>
 
 </div>
+
+## Enterprise applications
+
+WebFX is heading to Enterprise features through the [Modality](https://github.com/modalityone/modality) project, the first real-world Enterprise-level WebFX application. Here are some wireframes:
+
+<table>
+<tr>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+</tr>
+<tr>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+</tr>
+</table>
 
 ## Fully cross-platform
 
