@@ -30,9 +30,9 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 </div>
 
-## Enterprise applications
+## Enterprise demo
 
-WebFX is heading to Enterprise features through the [Modality](https://github.com/modalityone/modality) project, the first real-world Enterprise-level WebFX application. Here are some wireframes:
+The [Modality](https://github.com/modalityone/modality) project is the first real-world Enterprise-level WebFX application being developed. Here are some wireframes:
 
 <table>
 <tr>
@@ -114,10 +114,6 @@ For more explanation, please read the [documentation][webfx-docs].
 
 Watch our video tutorials, or read our [guide to getting started][webfx-guide].
 
-## Status
-
-WebFX is still in the incubation phase. At this stage, we provide only snapshot releases, and breaking changes may occur until the first official release.
-
 ## Ecosystem
 
 Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
@@ -130,6 +126,10 @@ Although the WebFX Kit is the very heart of the project, there are other importa
 </div>
 
 More info is given at the [organization level](https://github.com/webfx-project).
+
+## Status
+
+WebFX is still in the incubation phase. At this stage, we provide only snapshot releases, and breaking changes may occur until the first official release.
 
 ## Roadmap
 
