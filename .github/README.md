@@ -32,7 +32,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Enterprise demo (soon)
 
-[Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes (WebFX will provide all the components required for these UIs):
+[Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes of the back-office (WebFX will provide all the components required for these UIs):
 
 <table>
 <tr>
