@@ -36,22 +36,22 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 <table>
 <tr>
-<td><img src="Modality-01.png"/></td>
-<td><img src="Modality-02.png"/></td>
-<td><img src="Modality-03.png"/></td>
-<td><img src="Modality-04.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-01.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-02.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-03.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-04.png"/></td>
 </tr>
 <tr>
-<td><img src="Modality-05.png"/></td>
-<td><img src="Modality-06.png"/></td>
-<td><img src="Modality-07.png"/></td>
-<td><img src="Modality-08.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-05.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-06.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-07.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-08.png"/></td>
 </tr>
 <tr>
-<td><img src="Modality-09.png"/></td>
-<td><img src="Modality-10.png"/></td>
-<td><img src="Modality-11.png"/></td>
-<td><img src="Modality-12.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-09.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-10.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-11.png"/></td>
+<td><img src="https://modality.one/wireframes/Modality-wireframe-12.png"/></td>
 </tr>
 </table>
 
