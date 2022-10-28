@@ -51,7 +51,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Fully cross-platform
 
-WebFX applications can be compiled for 7 different platforms, all from the same source code base.
+WebFX applications can be compiled and run on 7 different platforms, from a unique source code base.
 
 <div align="center">
 
