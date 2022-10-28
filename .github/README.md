@@ -36,22 +36,22 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 <table>
 <tr>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-01.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-02.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-03.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-04.png"/></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-01.png"><img src="https://modality.one/wireframes/Modality-wireframe-01-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-02.png"><img src="https://modality.one/wireframes/Modality-wireframe-02-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-03.png"><img src="https://modality.one/wireframes/Modality-wireframe-03-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-04.png"><img src="https://modality.one/wireframes/Modality-wireframe-04-thumbnail.png"/></a></td>
 </tr>
 <tr>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-05.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-06.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-07.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-08.png"/></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-05.png"><img src="https://modality.one/wireframes/Modality-wireframe-05-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-06.png"><img src="https://modality.one/wireframes/Modality-wireframe-06-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-07.png"><img src="https://modality.one/wireframes/Modality-wireframe-07-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-08.png"><img src="https://modality.one/wireframes/Modality-wireframe-08-thumbnail.png"/></a></td>
 </tr>
 <tr>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-09.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-10.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-11.png"/></td>
-<td><img src="https://modality.one/wireframes/Modality-wireframe-12.png"/></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-09.png"><img src="https://modality.one/wireframes/Modality-wireframe-09-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-05.png"><img src="https://modality.one/wireframes/Modality-wireframe-10-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-05.png"><img src="https://modality.one/wireframes/Modality-wireframe-11-thumbnail.png"/></a></td>
+<td><a href="https://modality.one/wireframes/Modality-wireframe-05.png"><img src="https://modality.one/wireframes/Modality-wireframe-12-thumbnail.png"/></a></td>
 </tr>
 </table>
 
