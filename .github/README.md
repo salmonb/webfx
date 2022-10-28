@@ -1,8 +1,6 @@
 # WebFX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WebFXProject.svg?style=social&label=WebFXProject)](https://twitter.com/WebFXProject)
 
-WebFX is a JavaFX application transpiler powered by [GWT][gwt-website]. It can transpile a JavaFX application into a traditional self-contained pure JavaScript web app (with no plugin or server required for its execution in the browser).
-
-For more explanation, please visit the [website][webfx-website].
+WebFX lets you write applications for all major platforms (Web, Mobiles & Desktops) from a single Java code base.
 
 ## Demos
 
@@ -90,7 +88,8 @@ For more explanation, please visit the [website][webfx-website].
 
 ## Fully cross-platform
 
-WebFX doesn't target only the Web. WebFX applications can be compiled to run natively on 7 platforms from a single code base:
+WebFX applications can be compiled to 7 platforms from a single code base:
+
 
 <div align="center">
 
@@ -114,7 +113,6 @@ WebFX doesn't target only the Web. WebFX applications can be compiled to run nat
 | Browsers (Chrome, FireFox, Edge, etc...)    | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
 
 </div>
-
 
 You can check out the demos to see how a GitHub workflow can generate these executables.
 For example, here is the [GitHub workflow](https://github.com/webfx-demos/webfx-demo-fx2048/blob/main/.github/workflows/builds.yml) for the FX2048 demo and the [executables](https://github.com/webfx-demos/webfx-demo-fx2048/releases) that it generated.
