@@ -36,16 +36,22 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 <table>
 <tr>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="Modality-01.png"/></td>
+<td><img src="Modality-02.png"/></td>
+<td><img src="Modality-03.png"/></td>
+<td><img src="Modality-04.png"/></td>
 </tr>
 <tr>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
-<td><img src="https://repository-images.githubusercontent.com/513530200/0cf0aeba-ae00-45c9-b943-40677c3d90e3"/></td>
+<td><img src="Modality-05.png"/></td>
+<td><img src="Modality-06.png"/></td>
+<td><img src="Modality-07.png"/></td>
+<td><img src="Modality-08.png"/></td>
+</tr>
+<tr>
+<td><img src="Modality-09.png"/></td>
+<td><img src="Modality-10.png"/></td>
+<td><img src="Modality-11.png"/></td>
+<td><img src="Modality-12.png"/></td>
 </tr>
 </table>
 
