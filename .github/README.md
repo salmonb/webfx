@@ -32,7 +32,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Enterprise demo (soon)
 
-[Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are some wireframes (all these UIs will be developed with WebFX):
+[Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes (WebFX will provide all the components required for these UIs):
 
 <table>
 <tr>
@@ -51,19 +51,29 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Fully cross-platform
 
-WebFX applications can be compiled for 7 different platforms.
+WebFX applications can be compiled for 7 different platforms, all from the same source code base.
 
 <div align="center">
 
 <table>
 <tr>
-<td><img height="50" src="windows.svg"/></td>
-<td><img height="50" src="apple.svg"/></td>
-<td><img height="50" src="linux.svg"/></td>
-<td><img height="50" src="android.svg"/></td>
-<td><img height="50" src="ios.png"/></td>
-<td><img height="50" src="raspberry-pi.svg"/></td>
-<td><img height="50" src="html5.svg"/></td>
+<td><img height="64" src="windows.svg"/></td>
+<td>
+    <picture>
+      <source height="64" media="(prefers-color-scheme: dark)" srcset="apple-dark.svg">
+        <img height="64" src="apple.svg" />
+    </picture>
+</td>
+<td>
+    <picture>
+      <source height="64" media="(prefers-color-scheme: dark)" srcset="linux-dark.svg">
+        <img height="64" src="linux.svg" />
+    </picture>
+</td>
+<td><img height="64" src="android.svg"/></td>
+<td><img height="64" src="ios.png"/></td>
+<td><img height="64" src="raspberry-pi.svg"/></td>
+<td><img height="64" src="html5.svg"/></td>
 </tr>
 </table>
 
@@ -87,7 +97,7 @@ JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobil
     </picture>
 </p>
 
-WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App. For more explanation, please read the [documentation][webfx-docs].
+WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
 
 <div align="center">
     <picture>
@@ -123,7 +133,7 @@ Watch our video tutorials, or read our [guide to getting started][webfx-guide].
     </picture>
 </div>
 
-Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem. More info is given at the [organization level](https://github.com/webfx-project).
+Although the WebFX Kit (this repository) is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem. More info about them is given at the [organization level](https://github.com/webfx-project).
 
 ## Status
 
