@@ -31,8 +31,8 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 <table>
 <tr>
 <td>Tablets & mobiles</td>
-<td align="center"><img height="50" src="android.png"/></td>
-<td align="center"><img height="50" src="android.png"/></td>
+<td align="center"><img height="50" src="android.svg"/></td>
+<td align="center"><img height="50" src="android.svg"/></td>
 <td align="center"><img height="50" src="ios.png"/></td>
 </tr>
 <tr>
