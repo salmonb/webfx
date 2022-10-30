@@ -30,7 +30,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 </div>
 
-## Enterprise demo (soon)
+## Enterprise demo (coming soon)
 
 [Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes of the back-office (WebFX will provide all the components required for these UIs):
 
@@ -63,23 +63,23 @@ WebFX applications can be compiled and run on 7 different platforms, from a uniq
 
 <table>
 <tr>
-<td><img height="64" src="windows.svg"/></td>
+<td><img src="windows.svg"/></td>
 <td>
     <picture>
-      <source height="64" media="(prefers-color-scheme: dark)" srcset="apple-dark.svg">
-        <img height="64" src="apple.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="apple-dark.svg">
+        <img src="apple.svg" />
     </picture>
 </td>
 <td>
     <picture>
-      <source height="64" media="(prefers-color-scheme: dark)" srcset="linux-dark.svg">
-        <img height="64" src="linux.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="linux-dark.svg">
+        <img src="linux.svg" />
     </picture>
 </td>
-<td><img height="64" src="android.svg"/></td>
-<td><img height="64" src="ios.png"/></td>
-<td><img height="64" src="raspberry-pi.svg"/></td>
-<td><img height="64" src="html5.svg"/></td>
+<td><img src="android.svg"/></td>
+<td><img src="ios.svg"/></td>
+<td><img src="raspberry-pi.svg"/></td>
+<td><img src="html5.svg"/></td>
 </tr>
 </table>
 
@@ -88,7 +88,7 @@ WebFX applications can be compiled and run on 7 different platforms, from a uniq
 | Desktops (Windows, macOS & Linux)           |               ✅               |               ✅               |               ✅               |
 | Tablets & mobiles (Android & iOS)           |               ❌               |               ❌               |               ✅               |
 | Embed (Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
-| Browsers (Chrome, FireFox, Edge, etc...)    | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
+| Web (Chrome, FireFox, Edge, etc...)         | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
 
 </div>
 
