@@ -64,18 +64,8 @@ WebFX applications can be compiled and run on 7 different platforms, from a uniq
 <table>
 <tr>
 <td><img src="windows.svg"/></td>
-<td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="apple-dark.svg">
-        <img src="apple.svg" />
-    </picture>
-</td>
-<td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="linux-dark.svg">
-        <img src="linux.svg" />
-    </picture>
-</td>
+<td><img src="apple-dark.svg"/></td>
+<td><img src="linux-dark.svg"/></td>
 <td><img src="android.svg"/></td>
 <td><img src="ios.svg"/></td>
 <td><img src="raspberry-pi.svg"/></td>
