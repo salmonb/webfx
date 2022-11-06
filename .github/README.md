@@ -16,7 +16,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 <tr>
 <td align="center" valign="bottom"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪<br/><img src="google-play.png"><img src="app-store.png"></td>
 <td align="center" valign="bottom"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a><br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.gif"/><br/>Mandelbrot</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>Mandelbrot</a><br/><img src="google-play.png"><img src="app-store.png"></td>
 <td align="center" valign="bottom"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a><br/><img src="google-play.png"><img src="app-store.png"></td>
 </tr>
 <tr>
