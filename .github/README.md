@@ -1,23 +1,46 @@
 # WebFX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WebFXProject.svg?style=social&label=WebFXProject)](https://twitter.com/WebFXProject)
 
-WebFX lets you write applications for all major platforms (Web, Mobiles & Desktops) from a single Java code base.
+WebFX lets you write applications for 7 platforms from a single Java code base.
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="html5.svg"/></td>
+<td><img src="android.svg"/></td>
+<td><img src="ios.svg"/></td>
+<td><img src="windows.svg"/></td>
+<td><img src="apple-dark.svg"/></td>
+<td><img src="linux-dark.svg"/></td>
+<td><img src="raspberry-pi.svg"/></td>
+</tr>
+</table>
+
+| Platform                                       |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
+|------------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+| Desktops (Windows, macOS & Linux)              |               ✅               |               ✅               |               ✅               |
+| Tablets & mobiles (Android & iOS)              |               ❌               |               ❌               |               ✅               |
+| Embedded (Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
+| Web (Chrome, FireFox, Edge, etc...)            | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
+
+</div>
 
 ## Graphical demos
 
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="bottom"><a href="https://tallycounter.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>Tally Counter</a><br/><img src="google-play.png"><img src="app-store.png">
+<td align="center" valign="bottom"><a href="https://tallycounter.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>Tally Counter</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tallycounter"><img src="google-play.png"></a><img src="app-store.png">
 </td>
-<td align="center" valign="bottom"><a href="https://moderngauge.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>Modern Gauge</a><br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://enzoclocks.webfx.dev"> <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/> Enzo Clocks</a><br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://spacefx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>SpaceFX</a> ♪<br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://moderngauge.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>Modern Gauge</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.moderngauge"><img src="google-play.png"></a><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://enzoclocks.webfx.dev"> <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/> Enzo Clocks</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.enzoclocks"><img src="google-play.png"></a><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://spacefx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>SpaceFX</a> ♪<br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx"><img src="google-play.png"></a><img src="app-store.png"></td>
 </tr>
 <tr>
-<td align="center" valign="bottom"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪<br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a><br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>Mandelbrot</a><br/><img src="google-play.png"><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a><br/><img src="google-play.png"><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪<br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.demofx"><img src="google-play.png"></a><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.raytracer"><img src="google-play.png"></a><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>Mandelbrot</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.mandelbrot"><img src="google-play.png"></a><img src="app-store.png"></td>
+<td align="center" valign="bottom"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048"><img src="google-play.png"></a><img src="app-store.png"></td>
 </tr>
 <tr>
 <td colspan="4" align="center">
@@ -32,7 +55,7 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 
 ## Enterprise demo (coming soon)
 
-[Modality](https://github.com/modalityone/modality) is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes of the back-office (WebFX will provide all the components required for these UIs):
+[Modality][modality] is the first real-world Enterprise-level WebFX application in development. Here are a few wireframes of the back-office (WebFX will provide all the components required for these UIs):
 
 <table>
 <tr>
@@ -55,36 +78,9 @@ WebFX lets you write applications for all major platforms (Web, Mobiles & Deskto
 </tr>
 </table>
 
-## Fully cross-platform
-
-WebFX applications can be compiled and run on 7 different platforms, from a unique source code base.
-
-<div align="center">
-
-<table>
-<tr>
-<td><img src="windows.svg"/></td>
-<td><img src="apple-dark.svg"/></td>
-<td><img src="linux-dark.svg"/></td>
-<td><img src="android.svg"/></td>
-<td><img src="ios.svg"/></td>
-<td><img src="raspberry-pi.svg"/></td>
-<td><img src="html5.svg"/></td>
-</tr>
-</table>
-
-| Platform                                    |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
-|---------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| Desktops (Windows, macOS & Linux)           |               ✅               |               ✅               |               ✅               |
-| Tablets & mobiles (Android & iOS)           |               ❌               |               ❌               |               ✅               |
-| Embed (Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
-| Web (Chrome, FireFox, Edge, etc...)         | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
-
-</div>
-
 ## How it works
 
-JavaFX is used as UI toolkit. JavaFX can already be compiled for Desktops, Mobiles & Embed. WebFX is here to add the Web platform to this collection. 
+WebFX is built on top of [OpenJFX](https://openjfx.io) and the [Gluon](https://gluonhq.com) toolchain that can already compile JavaFX applications to 6 platforms. WebFX is here to add the Web platform to this already great collection.
 
 <p align="center">
     <picture>
@@ -157,7 +153,15 @@ You want to get involved in the development as well? You are very welcome! Pleas
 
 ## License
 
-WebFX is a free, open-source software licensed under the [Apache License 2.0](../LICENSE)
+WebFX is an open-source software licensed under the [Apache License 2.0](../LICENSE).
+
+## Is it free?
+
+Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/), which will also give you the ability to create native apps for the Desktop & Embedded platforms.
+
+## Funding
+
+WebFX is a project sponsored by NKT-IKBU for the development of its booking system [Modality][modality].
 
 [webfx-website]: https://webfx.dev
 [webfx-docs]: https://docs.webfx.dev
@@ -168,3 +172,4 @@ WebFX is a free, open-source software licensed under the [Apache License 2.0](..
 [webfx-contact]: mailto:maintainer@webfx.dev
 [webfx-cli-repo]: https://github.com/webfx-project/webfx-cli
 [gwt-website]: http://www.gwtproject.org
+[modality]: https://github.com/modalityone/modality
