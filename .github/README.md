@@ -35,6 +35,8 @@ For the Web, WebFX will compile your application into a traditional self-contain
 
 ## Graphical demos
 
+As mentioned above, the mobiles versions are not compatible with old 32-bit devices. 
+
 <div align="center">
 <table>
 <tr>
