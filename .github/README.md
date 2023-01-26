@@ -1,6 +1,6 @@
 # WebFX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WebFXProject.svg?style=social&label=WebFXProject)](https://twitter.com/WebFXProject)
 
-WebFX lets you write applications for 7 platforms from a single Java code base.
+WebFX lets Java developers write applications that can run on 7 platforms including the Web from a single source code base.
 
 <div align="center">
 
@@ -16,6 +16,12 @@ WebFX lets you write applications for 7 platforms from a single Java code base.
 </tr>
 </table>
 
+</div>
+
+For platforms other than the Web, you can build native images for 64-bit devices.
+
+<div align="center">
+
 | Platform                                       |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
 |------------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | Desktops (Windows, macOS & Linux)              |               ✅               |               ✅               |               ✅               |
@@ -24,6 +30,8 @@ WebFX lets you write applications for 7 platforms from a single Java code base.
 | Web (Chrome, FireFox, Edge, etc...)            | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
 
 </div>
+
+The Web build is a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
 
 ## Graphical demos
 
