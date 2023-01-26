@@ -18,7 +18,7 @@ WebFX lets Java developers target 7 platforms including the Web from a single ap
 
 </div>
 
-For platforms other than the Web, your application will be native on 64-bit devices.
+For platforms other than the Web, the application will be native on 64-bit devices.
 
 <div align="center">
 
@@ -31,7 +31,7 @@ For platforms other than the Web, your application will be native on 64-bit devi
 
 </div>
 
-For the Web, WebFX will compile your application into a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
+For the Web, WebFX will compile the application into a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
 
 ## Graphical demos
 
@@ -99,7 +99,7 @@ WebFX is built on top of [OpenJFX](https://openjfx.io) and the [Gluon](https://g
     </picture>
 </p>
 
-The heart of WebFX is a JavaFX application transpiler, which is achieved with the [WebFX Kit](../webfx-kit) - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
+The heart of WebFX is a JavaFX application transpiler, which is mainly achieved with the [WebFX Kit](../webfx-kit) - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
 
 <div align="center">
     <picture>
@@ -157,7 +157,6 @@ You can greatly help the project by:
 - Following the [guide][webfx-guide] and start experimenting with WebFX
 - Reporting any issues you may have with the [WebFX CLI][webfx-cli-repo], which we will try to fix
 - Giving us feedback in our GitHub [discussions][webfx-discussions]
-- Sharing your first WebFX applications (we can add it to our [demo list][webfx-demos] if you wish)
 
 You want to get involved in the development as well? You are very welcome! Please read our [contributing guide](CONTRIBUTING.md).
 
@@ -167,7 +166,7 @@ WebFX is an open-source software licensed under the [Apache License 2.0](../LICE
 
 ## Is it free?
 
-Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles & native apps, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/).
+Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles & native apps, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/) (otherwise you will get a nag screen).
 
 ## Funding
 
