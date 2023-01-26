@@ -167,7 +167,7 @@ WebFX is an open-source software licensed under the [Apache License 2.0](../LICE
 
 ## Is it free?
 
-Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/), which will also give you the ability to create native apps for the Desktop & Embedded platforms.
+Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles & native apps, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/).
 
 ## Funding
 
