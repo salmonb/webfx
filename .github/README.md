@@ -99,7 +99,7 @@ WebFX is built on top of [OpenJFX](https://openjfx.io) and the [Gluon](https://g
     </picture>
 </p>
 
-The heart of WebFX is a JavaFX application transpiler, which is achieved by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
+The heart of WebFX is a JavaFX application transpiler, which is achieved with the [WebFX Kit](../webfx-kit) - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
 
 <div align="center">
     <picture>
