@@ -35,7 +35,7 @@ For the Web, WebFX will compile your application into a traditional self-contain
 
 ## Graphical demos
 
-As mentioned above, the mobiles versions are not compatible with old 32-bit devices. 
+As mentioned above, the mobiles versions are not compatible with 32-bit devices. 
 
 <div align="center">
 <table>
@@ -99,7 +99,7 @@ WebFX is built on top of [OpenJFX](https://openjfx.io) and the [Gluon](https://g
     </picture>
 </p>
 
-WebFX achieves this by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
+The heart of WebFX is a JavaFX application transpiler, which is achieved by providing the WebFX Kit - a GWT compatible version of OpenJFX - making your application compilable to a Web App with [GWT][gwt-website]. For more explanation, please read the [documentation][webfx-docs].
 
 <div align="center">
     <picture>
