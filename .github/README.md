@@ -44,7 +44,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://tallycounter.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
-        Tally Counter<br/>
+        Tally Counter<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -67,7 +67,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://moderngauge.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
-        Modern Gauge<br/>
+        Modern Gauge<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -90,7 +90,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://enzoclocks.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
-        Enzo Clocks<br/>
+        Enzo Clocks<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -113,7 +113,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        SpaceFX<br/>
+        SpaceFX<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -139,7 +139,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://demofx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
-        DemoFX<br/>
+        DemoFX<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -162,7 +162,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://raytracer.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
-        Ray Tracer<br/>
+        Ray Tracer<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -185,7 +185,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://mandelbrot.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
-        Mandelbrot<br/>
+        Mandelbrot<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -208,7 +208,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://fx2048.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
-        FX2048<br/>
+        FX2048<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
