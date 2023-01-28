@@ -22,12 +22,12 @@ For platforms other than the Web, the application will be native on 64-bit devic
 
 <div align="center">
 
-| Platform                                       |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
-|------------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| Desktops (Windows, macOS & Linux)              |               ✅               |               ✅               |               ✅               |
-| Tablets & mobiles (Android & iOS)              |               ❌               |               ❌               |               ✅               |
-| Embedded (Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
-| Web (Chrome, FireFox, Edge, etc...)            | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
+| Platform                                           |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
+|----------------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+| Desktops (Windows, macOS & Linux)                  |               ✅               |               ✅               |               ✅               |
+| Tablets & mobiles (Android & iOS)                  |               ❌               |               ❌               |               ✅               |
+| Embedded (ex: Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
+| Web (Chrome, FireFox, Edge, etc...)                | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
 
 </div>
 
@@ -40,18 +40,196 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="bottom"><a href="https://tallycounter.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>Tally Counter</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tallycounter"><img src="google-play.png"></a><img src="app-store.png">
+
+<td align="center" valign="bottom">
+    <a href="https://tallycounter.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
+        Tally Counter<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tallycounter">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
 </td>
-<td align="center" valign="bottom"><a href="https://moderngauge.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>Modern Gauge</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.moderngauge"><img src="google-play.png"></a><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://enzoclocks.webfx.dev"> <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/> Enzo Clocks</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.enzoclocks"><img src="google-play.png"></a><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://spacefx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>SpaceFX</a> ♪<br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx"><img src="google-play.png"></a><img src="app-store.png"></td>
+
+<td align="center" valign="bottom">
+    <a href="https://moderngauge.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
+        Modern Gauge<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.moderngauge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://enzoclocks.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
+        Enzo Clocks<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.enzoclocks">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://spacefx.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        SpaceFX<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
 </tr>
 <tr>
-<td align="center" valign="bottom"><a href="https://demofx.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>DemoFX</a> ♪<br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.demofx"><img src="google-play.png"></a><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://raytracer.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>Ray Tracer</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.raytracer"><img src="google-play.png"></a><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://mandelbrot.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>Mandelbrot</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.mandelbrot"><img src="google-play.png"></a><img src="app-store.png"></td>
-<td align="center" valign="bottom"><a href="https://fx2048.webfx.dev"><img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>FX2048</a><br/><a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048"><img src="google-play.png"></a><img src="app-store.png"></td>
+
+<td align="center" valign="bottom">
+    <a href="https://demofx.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
+        DemoFX<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.demofx">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://raytracer.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
+        Ray Tracer<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.raytracer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://mandelbrot.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
+        Mandelbrot<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.mandelbrot">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://fx2048.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
+        FX2048<br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
 </tr>
+
 <tr>
 <td colspan="4" align="center">
 <a href="https://github.com/webfx-demos">
@@ -94,7 +272,7 @@ WebFX is built on top of [OpenJFX](https://openjfx.io) and the [Gluon](https://g
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-cross-platform-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-cross-platform-dark.svg"/>
         <img src="https://docs.webfx.dev/webfx-cross-platform.svg" />
     </picture>
 </p>
@@ -166,7 +344,7 @@ WebFX is an open-source software licensed under the [Apache License 2.0](../LICE
 
 ## Is it free?
 
-Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles & native apps, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/) (otherwise you will get a nag screen).
+Yes WebFX itself is free, and you can build Web apps and Desktop apps (with embed JRE) for free. But if you target mobiles & native apps, you will need to acquire a [Gluon Mobile license](https://gluonhq.com/pricing/) to remove the nag screen.
 
 ## Funding
 
