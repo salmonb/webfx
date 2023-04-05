@@ -25,7 +25,7 @@ For platforms other than the Web, the application will be native on 64-bit devic
 | Platform                                           |          32-bit JRE           |          64-bit JRE           |         64-bit Native         |
 |----------------------------------------------------|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | Desktops (Windows, macOS & Linux)                  |               ✅               |               ✅               |               ✅               |
-| Tablets & mobiles (Android & iOS)                  |               ❌               |               ❌               |               ✅               |
+| Mobiles / tablets (Android & iOS)                  |               ❌               |               ❌               |               ✅               |
 | Embedded (ex: Raspberry Pi) ~ *not yet documented* |               ✅               |               ✅               |               ✅               |
 | Web (Chrome, FireFox, Edge, etc...)                | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> | <img height=24 src="JS.svg"/> |
 
@@ -35,7 +35,8 @@ For the Web, WebFX will compile the application into a traditional self-containe
 
 ## Graphical demos
 
-As mentioned above, the mobiles versions are not compatible with 32-bit devices. 
+These demos have been written using open-source libraries ported to WebFX (links to original libraries below).
+
 
 <div align="center">
 <table>
@@ -44,7 +45,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://tallycounter.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
-        Tally Counter<br/><br/>
+        Tally Counter<br/><a href="https://github.com/HanSolo/odometer">(Odometer)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -67,7 +68,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://moderngauge.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
-        Modern Gauge<br/><br/>
+        Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -90,7 +91,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://enzoclocks.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
-        Enzo Clocks<br/><br/>
+        Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -110,36 +111,13 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
     </a>
 </td>
 
-<td align="center" valign="bottom">
-    <a href="https://spacefx.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        SpaceFX<br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
 </tr>
 <tr>
 
 <td align="center" valign="bottom">
     <a href="https://demofx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
-        DemoFX<br/><br/>
+        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -162,7 +140,8 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://raytracer.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
-        Ray Tracer<br/><br/>
+        Ray Tracer<br/><a href="https://github.com/steventrowland/JavaFX-Ray-Tracer">
+(JavaFX-Ray-Tracer)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -185,7 +164,7 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
 <td align="center" valign="bottom">
     <a href="https://mandelbrot.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
-        Mandelbrot<br/><br/>
+        Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -205,10 +184,34 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
     </a>
 </td>
 
+
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+<a href="https://github.com/webfx-demos">
+<img width="100%" src='MoreDemos.svg'/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+⚠️ As mentioned above, the mobile versions are not compatible with 32-bit devices.
+
+## Games
+
+These existing open-source games have been ported to WebFX (authors & links to original games below). 
+
+<div align="center">
+<table>
+<tr>
+
 <td align="center" valign="bottom">
     <a href="https://fx2048.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
-        FX2048<br/><br/>
+        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -228,15 +231,79 @@ As mentioned above, the mobiles versions are not compatible with 32-bit devices.
     </a>
 </td>
 
+<td align="center" valign="bottom">
+    <a href="https://tetris.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tetris">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://jarkanoid.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.jarkanoid">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://spacefx.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+
 </tr>
 
-<tr>
-<td colspan="4" align="center">
-<a href="https://github.com/webfx-demos">
-<img width="100%" src='MoreDemos.svg'/>
-</a>
-</td>
-</tr>
+
 </table>
 
 </div>
