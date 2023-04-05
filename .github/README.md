@@ -33,8 +33,6 @@ For platforms other than the Web, the application will be native on 64-bit devic
 
 For the Web, WebFX will compile the application into a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
 
-⚠️ As mentioned above, the mobile versions of the demos below are not compatible with 32-bit devices.
-
 ## Graphical demos
 
 These demos have been written using open-source libraries ported to WebFX (links to original libraries below).
@@ -200,9 +198,9 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 </div>
 
-## Games demos
+## Games - demos
 
-These existing open-source games have been ported to WebFX (authors & links to original games below). 
+These open-source games have been ported to WebFX (authors & links to original games below). 
 
 <div align="center">
 <table>
