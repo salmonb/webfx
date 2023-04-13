@@ -33,9 +33,7 @@ For platforms other than the Web, the application will be native on 64-bit devic
 
 For the Web, WebFX will compile the application into a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
 
-## Graphical demos
-
-These demos have been written using open-source libraries ported to WebFX (links to original libraries below).
+## Demos
 
 
 <div align="center">
@@ -52,170 +50,6 @@ These demos have been written using open-source libraries ported to WebFX (links
         </picture>
     </a><br/>
     <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tallycounter">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-<td align="center" valign="bottom">
-    <a href="https://moderngauge.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
-        Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.moderngauge">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-<td align="center" valign="bottom">
-    <a href="https://enzoclocks.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
-        Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.enzoclocks">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" valign="bottom">
-    <a href="https://demofx.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
-        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.demofx">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-<td align="center" valign="bottom">
-    <a href="https://raytracer.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
-        Ray Tracer<br/><a href="https://github.com/steventrowland/JavaFX-Ray-Tracer">
-(JavaFX-Ray-Tracer)</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.raytracer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-<td align="center" valign="bottom">
-    <a href="https://mandelbrot.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
-        Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.mandelbrot">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
-          <img src="google-play.svg"/>
-        </picture>
-    </a>
-    <a>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
-          <img src="app-store.svg"/>
-        </picture>
-    </a>
-</td>
-
-
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-<a href="https://github.com/webfx-demos">
-<img width="100%" src='MoreDemos.svg'/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
-## Games - demos
-
-These open-source games have been ported to WebFX (authors & links to original games below). 
-
-<div align="center">
-<table>
-<tr>
-
-<td align="center" valign="bottom">
-    <a href="https://fx2048.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
-        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
-          <img src="browser-play.svg"/>
-        </picture>
-    </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
           <img src="google-play.svg"/>
@@ -301,7 +135,13 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 </tr>
 
-
+<tr>
+<td colspan="4" align="center">
+<a href="https://github.com/webfx-demos">
+<img width="100%" src='MoreDemos.svg'/>
+</a>
+</td>
+</tr>
 </table>
 
 </div>
