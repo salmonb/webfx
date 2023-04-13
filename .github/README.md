@@ -1,6 +1,6 @@
 # WebFX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WebFXProject.svg?style=social&label=WebFXProject)](https://twitter.com/WebFXProject)
 
-WebFX lets Java developers target 7 platforms including the Web from a single application source code base.
+WebFX lets Java developers target 7 client platforms including the Web from a single application source code base.
 
 <div align="center">
 
@@ -43,7 +43,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 <td align="center" valign="bottom">
     <a href="https://tallycounter.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
-        Tally Counter<br/><a href="https://github.com/HanSolo/odometer">(Odometer)</a><br/><br/>
+        Tally Counter<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -66,7 +66,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 <td align="center" valign="bottom">
     <a href="https://tetris.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+        Tetris<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -89,7 +89,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
+        JArkanoid<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -112,7 +112,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
+        SpaceFX<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
