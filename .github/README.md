@@ -1,6 +1,6 @@
 # WebFX [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WebFXProject.svg?style=social&label=WebFXProject)](https://twitter.com/WebFXProject)
 
-WebFX lets Java developers target 7 client platforms including the Web from a single application source code base.
+WebFX lets Java developers target 7 platforms including the Web from a single application source code base.
 
 <div align="center">
 
@@ -31,7 +31,7 @@ For platforms other than the Web, the application will be native on 64-bit devic
 
 </div>
 
-For the Web, WebFX will compile the application into a traditional self-contained pure JavaScript webapp (with no plugin or server required for its execution in the browser).
+For the Web, WebFX will compile the application into a pure traditional self-contained JavaScript webapp (with no plugin or server required for its execution in the browser).
 
 ## Demos
 
@@ -65,7 +65,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 
 <td align="center" valign="bottom">
     <a href="https://tetris.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris.webp"/><br/>
         Tetris<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
@@ -88,7 +88,7 @@ For the Web, WebFX will compile the application into a traditional self-containe
 
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid.webp"/><br/>
         JArkanoid<br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
